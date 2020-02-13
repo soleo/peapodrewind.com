@@ -63,10 +63,82 @@ export default {
           ``
       },
       {
+        from: new Date(2006, 0),
+        title: "Peapod opens more territory in New Jersey and Long Island",
+        description:`
+        
+        `
+      },
+      {
+        from: new Date(2005, 0),
+        title: "Peapod opens in New Jersey.",
+        description:`
+        
+        `
+      },
+      {
+        from: new Date(2004, 0),
+        title: "Achieves profitability in five out of six markets",
+        description:`
+        
+        `
+      },
+      {
+        from: new Date(2003, 0),
+        title: "Achieves profitability in four out of five markets",
+        description:`
+        Peapod achieves profitability in four out of five markets.
+        In April, Peapod introduces service in Hartford, Conn., with Stop & Shop.
+        In July, Peapod delivers its 5 millionth order, to a customer in Chicago.
+        In October, Peapod initiates service in New Haven, Conn. With Stop & Shop.
+        `
+      },
+      {
+        from: new Date(2002, 0),
+        title: "Peapod by Stop & Shop expands service to Cape Cod, Mass.",
+        description:`
+        `
+      },
+      {
+        from: new Date(2001, 7),
+        title: "Wholy-owned by Royal Ahold",
+        description:
+          `Peapod begins servicing communities in Virginia and Maryland, partnering
+          with Giant Food.
+          In August, Royal Ahold buys the remaining shares of Peapod, establishing
+          the Internet grocer as a wholly-owned subsidiary of the international
+          foodservice company.
+          Peapod pursues a bricks-and-clicks strategy, engaging in exclusive
+          relationships with Ahold U.S.A. grocers--Stop &amp; Shop and Giant Food--and
+          planning growth in markets where these grocers have a presence.
+          Peapod replaces its Niles, Ill., warehouse with a new 75,000-square foot,
+          climate-controlled distribution center (a former Streamline.com facility) in
+          Lake Zurich, Ill.`
+      },
+      {
+        from: new Date(2000, 10),
+        title: "Partner with Giant Food",
+        description:
+          `Peapod partners with Giant Food (a Royal Ahold subsidiary) to
+            launch "Peapod by Giant" in the Washington, DC, metro area`
+      },
+      {
         from: new Date(2000, 5),
         title: "Royal Ahold bought 51% of Peapod's shares",
         description:
           ``
+      },
+      {
+        from: new Date(1999, 0),
+        title: "Pursue a centralized distribution model",
+        description:`
+        After growing business in the Chicago market, Peapod pursues a centralized
+        distribution model: moving from 12 store locations to one dedicated
+        warehouse outside Chicago, in Niles, IL, and one dedicated warehouse in San
+        Francisco.
+        Webvan launches in San Francisco.
+        Peapod hires COO of AT&amp;T Wireless, Bill Malloy as CEO.
+        `
       },
       {
         from: new Date(1998, 6),
