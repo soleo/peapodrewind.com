@@ -1,13 +1,16 @@
 <template>
   <div id="app">
     <h1 class="title">Peapod Rewind</h1>
-    <Timeline
-      :timeline-items="dataTimeline"
-      :message-when-no-items="messageWhenNoItems"
-      :unique-year="true"
-      :color-dots="colorDots"
-      order="desc"
-    />
+    <div class="timeline--center">
+        <Timeline
+            :timeline-items="dataTimeline"
+            :message-when-no-items="messageWhenNoItems"
+            :unique-year="true"
+            :color-dots="colorDots"
+            order="desc"
+            class="timeline-container"
+        />
+    </div>
   </div>
 </template>
 
@@ -89,5 +92,15 @@ export default {
 .title {
     color: #577926;
     font-size: 30px;
+}
+
+.timeline--center {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.timeline-container{
+    text-align: left;
 }
 </style>
