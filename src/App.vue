@@ -57,6 +57,12 @@ export default {
           ``
       },
       {
+        from: new Date(2010, 7),
+        title: "Release first mobile app on apple store and google play store",
+        description:
+          ``
+      },
+      {
         from: new Date(2000, 5),
         title: "Royal Ahold bought 51% of Peapod's shares",
         description:
