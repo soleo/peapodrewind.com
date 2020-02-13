@@ -78,7 +78,14 @@ export default {
         from: new Date(1989, 0),
         title: "Peapod Online Grocer (US) was founded in 1989 by Andrew Parkinson and Thomas Parkinson",
         description:
-          ``
+          `Andrew and Thomas Parkinson pioneer the online grocery delivery concept,
+          establishing Peapod in Evanston, Ill. Combining backgrounds in consumer
+          product marketing (Andrew was a brand manager with Proctor & Gamble and
+          Kraft) and technology expertise (Thomas was the founder of a software
+          company), the brothers establish Peapod as a lifestyle solution for busy
+          families
+          Peapod software ran on MS-DOS as a client server application talking to an
+          SCO Unix system running on a Dell 386. Disks were sold for $49.95.`
       },
     ]
   })
