@@ -33,6 +33,15 @@ export default {
           `Peapod’s online grocery delivery services in Illinois, Wisconsin, and Indiana is discontinued starting February 19.`
       },
       {
+        from: new Date(2019, 1),
+        title: "Same day grocery delivery with Deliv",
+        description:
+          `With Deliv’s last-mile logistics capabilities, 
+          Peapod will be able to offer one-hour delivery windows to 
+          customers in the test market and order turnaround 
+          of four hours or longer. `
+      },
+      {
         from: new Date(2019, 0),
         title: "Open first Click and Collect to integrate with brick and mortar stores",
         description:
@@ -58,7 +67,7 @@ export default {
       },
       {
         from: new Date(2010, 7),
-        title: "Release first mobile app on apple store and google play store",
+        title: "Release first mobile app on Apple store and Google play store",
         description:
           ``
       },
